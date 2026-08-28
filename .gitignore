@@ -1,0 +1,10 @@
+# Local editor and system files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Local test material and private project drafts
+local-projects/
+drafts/
+*.private.md

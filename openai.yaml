@@ -1,0 +1,13 @@
+interface:
+  display_name: "写作大师"
+  short_description: "创作、续写与优化多题材中文小说和商业化网文"
+  default_prompt: "使用 $writing-master：先读取项目总档、最近一至三章和当前章，维护连续性与公平信息差；最高优先级是让读者轻松顺畅地追读，每章只选一个主叙事发动机，控制情绪触发—选择—兑现—余波，使用适配题材的商业化中文语法。"
+  icon_small: "assets/icon.svg"
+  icon_large: "assets/icon.svg"
+policy:
+  products:
+  - "chatgpt"
+  - "codex"
+  - "api"
+  - "atlas"
+  allow_implicit_invocation: false
